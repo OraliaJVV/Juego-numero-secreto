@@ -1,1 +1,1 @@
-crea juego del numero secreto
+esta aplicacion es mi practica de la creacion del juego numero secreto
